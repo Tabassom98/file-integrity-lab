@@ -30,4 +30,4 @@ The tool reads monitored content and emits filenames and hashes, so keep real ma
 
 ## Provenance and verification
 
-AI-assisted educational starter, using harmless invented demo files. No real compromise, production deployment, or security efficacy is claimed. Tests cover a known SHA-256 vector, binary files, same-size content changes, validation, classifications, exit codes, and overwrite prevention. CI targets Windows and Linux on Python 3.10/3.12, but Python 3.10 Windows runs test only ordinary directories. MIT licensed.
+Educational project using harmless invented demo files. No real compromise, production deployment, or security efficacy is claimed. Tests cover a known SHA-256 vector, binary files, same-size content changes, validation, classifications, exit codes, and overwrite prevention. CI targets Windows and Linux on Python 3.10/3.12, but Python 3.10 Windows runs test only ordinary directories. MIT licensed.
