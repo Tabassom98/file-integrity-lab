@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+local-data/
+local-reports/
+baseline*.json
